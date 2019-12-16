@@ -1,9 +1,9 @@
 ---
-name: Tracking issue
-about: Use this template for tracking new features.
+name: 🐛 Bug # Markdown syntax for emoji doesn't seems to work
+about: Use this template for bug report.
 title: "[DATE]: [FEATURE NAME]"
-labels: tracking issue, needs triage
-assignees: octocat, octo-org/octo-team
+labels: ":bug: bug" # But here it does
+assignees: vmonjaret # Can also be a team (ie. octo-org/octo-team)
 ---
 
 <!--- Provide a general summary of the issue in the Title above -->
@@ -25,8 +25,6 @@ assignees: octocat, octo-org/octo-team
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
 1.
 2.
-3.
-4.
 
 ## Context
 <!--- How has this bug affected you? What were you trying to accomplish? -->
